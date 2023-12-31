@@ -13,7 +13,7 @@ Welcome to the Weather Web App repository! 🌦️ This project is a web applica
 - **Interactive Elements:** The app includes interactive elements to enhance the user experience, such as dynamic weather animations and responsive design.
 
 - **Location-specific Details:** Users can get weather details specific to their location, providing personalized and relevant information.
-- 
+  
 - **Dynamic Backgrounds:** Experience a visually immersive journey as background images change based on city names, sourced dynamically from Unsplash.
 
 ## Technologies Used
