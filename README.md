@@ -42,6 +42,10 @@ We welcome contributions to enhance the features and functionality of the Weathe
 
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
+
+![Screenshot 2023-10-13 134011](https://github.com/SAHIL7458/Weather-Web-App-/assets/144415695/bb43b129-02ea-46a7-a808-0d71ffe57b17)
+
+
 ## Acknowledgments
 
 - Special thanks to the OpenWeather API for providing reliable and up-to-date weather data.
